@@ -1,0 +1,71 @@
+.chat-body {
+  width: 360px;
+  max-width: 550px;
+  margin: 50px auto;
+  border: 1px solid #6b7280;
+}
+
+.card-body {
+  background-color: #363F4D;
+  color: #fff;
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.server-message {
+  background-color: #444E5E;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.client-message {
+  background-color: #535D6E;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.form-inline {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1.25rem;
+}
+
+.form-control {
+  width: 80%;
+  background-color: #363F4D;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#send {
+  background-color: #2DD1AC;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+.form-message {
+  margin-top: 10px;
+}
+
+.card-title {
+  text-align: center;
+  font-size: 1.25rem; 
+  font-weight: 500;
+}
+
+.card-text {
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+hr {
+  color: #6b7280;
+  margin-bottom: 1.25rem;
+}
